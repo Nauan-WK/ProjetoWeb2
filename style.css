@@ -3,4 +3,7 @@
     margin: 0;
     background-color: black;
 }
-
+.header{
+    height: 100px;
+    background-color: red;
+}
